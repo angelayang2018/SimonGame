@@ -1,0 +1,8 @@
+Created a game called Simon, where users would copy the pattern that the computer displays
+With each level the pattern becomes more complex
+Using jQuery
+- animate
+	- fadeIn, fadeOut
+- detect keyboard key press
+- learned how to delay functions in JavaScript using setTimeout and async functions
+
